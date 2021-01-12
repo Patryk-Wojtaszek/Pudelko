@@ -1,0 +1,9 @@
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\bin\Debug\netstandard2.0\PudelkoLibrary.deps.json
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\bin\Debug\netstandard2.0\PudelkoLibrary.dll
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\bin\Debug\netstandard2.0\PudelkoLibrary.pdb
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\obj\Debug\netstandard2.0\PudelkoLibrary.csprojAssemblyReference.cache
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\obj\Debug\netstandard2.0\PudelkoLibrary.AssemblyInfoInputs.cache
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\obj\Debug\netstandard2.0\PudelkoLibrary.AssemblyInfo.cs
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\obj\Debug\netstandard2.0\PudelkoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\obj\Debug\netstandard2.0\PudelkoLibrary.dll
+C:\Users\sniqq\Desktop\Pudelko\PudelkoLibrary\obj\Debug\netstandard2.0\PudelkoLibrary.pdb

@@ -1,0 +1,16 @@
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkooApp.exe
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkooApp.deps.json
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkooApp.runtimeconfig.json
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkooApp.runtimeconfig.dev.json
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkooApp.dll
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkooApp.pdb
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkoLibrary.dll
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\bin\Debug\netcoreapp3.1\PudelkoLibrary.pdb
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.csprojAssemblyReference.cache
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.AssemblyInfoInputs.cache
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.AssemblyInfo.cs
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.csproj.CoreCompileInputs.cache
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.csproj.CopyComplete
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.dll
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.pdb
+C:\Users\sniqq\Desktop\Pudelko\Pudelkoo\obj\Debug\netcoreapp3.1\PudelkooApp.genruntimeconfig.cache

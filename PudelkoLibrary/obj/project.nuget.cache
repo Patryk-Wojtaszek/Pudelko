@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRlHQck2UXqNa/ww/NRK9N4GpE6iCiiaAN9y5dhR6j2F02LoVgiDIlJSAp0oSnFWThxjZk7Dpw8Pn328wsVXzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sniqq\\Desktop\\Pudelko\\PudelkoLibrary\\PudelkoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sniqq\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sniqq\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
